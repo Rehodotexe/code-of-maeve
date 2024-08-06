@@ -7,6 +7,6 @@ description = "Mon premier article LFG !!!"
 
 ## Le commencement
 
-Mon premier **article** sur mon blog, j'espère pouvoir partager plein de connaissances ici.
+Premier **article** sur mon blog, j'espère pouvoir partager plein de connaissances ici.
 
 A très vite !
