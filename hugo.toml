@@ -1,0 +1,4 @@
+baseURL = 'https://yacine.engineering/'
+languageCode = 'fr-fr'
+title = 'Rêveries'
+theme = "anubis2"
