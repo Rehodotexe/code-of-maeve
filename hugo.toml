@@ -33,13 +33,13 @@ url = "/about/"
 weight = 2
 
 [[menu.main]]
-name = "Archive"
+name = "Articles"
 identifier = "archive"
 url = "/posts/"
 weight = 3
 
 [[menu.main]]
-identifier = "tags"
+identifier = "Étiquettes"
 name = "Tags"
 url = "/tags/"
 weight = 4
