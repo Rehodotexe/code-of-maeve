@@ -1,5 +1,5 @@
 +++
-title = 'Hello World'
+title = '👋 Hello World'
 date = 2024-08-06T22:23:56+02:00
 draft = false
 description = "Mon premier article LFG !!!"
