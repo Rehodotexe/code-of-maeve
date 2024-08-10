@@ -1,7 +1,11 @@
-baseURL = 'https://yacine.engineering/'
-languageCode = 'fr-fr'
+baseURL = "https://yacine.engineering/"
+languageCode = "fr-fr"
+defaultContentLanguage = "fr"
 title = 'Yacine Salhi'
 theme = "anubis2"
+
+colorTheme = "auto"
+colorThemeSwitcher = true
 
 social = [
     { id = "docs", url = "https://gohugo.io/documentation/" },
