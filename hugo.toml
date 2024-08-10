@@ -1,4 +1,41 @@
 baseURL = 'https://yacine.engineering/'
 languageCode = 'fr-fr'
-title = 'Rêveries'
+title = 'Yacine Salhi'
 theme = "anubis2"
+
+social = [
+    { id = "docs", url = "https://gohugo.io/documentation/" },
+    { id = "github", url = "https://github.com/Rehodotexe" },
+    { id = "linkedin", url = "#" },
+    { id = "email", url = "#" },
+    { id = "facebook", url = "#" },
+    { id = "instagram", url = "#" },
+    { id = "netease-music", url = "#" },
+    { id = "telegram", url = "#" },
+    { id = "x", url = "https://x.com/__reho" },
+    { id = "youtube", url = "#" }
+]
+
+[[menu.main]]
+identifier = "home"
+name = "Acceuil"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "about"
+name = "À propos"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+name = "Archive"
+identifier = "archive"
+url = "/posts/"
+weight = 3
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 4
