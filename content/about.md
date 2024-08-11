@@ -1,5 +1,5 @@
 ---
-title: À Propos
+title: À propos
 description: "Découvrez qui est Yacine Salhi, un ingénieur passionné de technologie partageant ses projets personnels, et des astuces sur des outils comme Microsoft 365."
 date: 2024-08-10T14:48:50.446Z
 preview: ""

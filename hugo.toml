@@ -40,6 +40,6 @@ weight = 3
 
 [[menu.main]]
 identifier = "Étiquettes"
-name = "Tags"
+name = "Étiquettes"
 url = "/tags/"
 weight = 4
